@@ -11,5 +11,4 @@ Method Practice
 - blocks
 - while
 - do while
-- do while
 
